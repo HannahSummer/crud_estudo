@@ -1,0 +1,14 @@
+.header {
+    display:flex;
+    align-items:center;
+}
+
+.heaader a{
+    display:-ms-inline-grid
+    align-items:center;
+    text-decoration:none
+}
+
+.header.logo{
+    max-height: 32px;
+}
